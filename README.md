@@ -1,14 +1,6 @@
          ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+    Pandora Travel Co. has branches in almost every nook and corner of the world and with $20 billion
+transactions globally, every down time results in massive losses. Multiple developers are working from
+remote locations and are having trouble coordinating with each other. The code deployment ratio is
+100:10, hence the developers need a robust Source Control Management System with strong branching
+and merging features. Git suits their needs perfectly. 
